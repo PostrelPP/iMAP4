@@ -6,8 +6,8 @@ import os
 import time
 
 IMAP_SR = 'imap.gmail.com'
-MAIL_LOG = 'prtestimap@gmail.com'
-PASS = 'owzp uqhl jpsm oohc'
+MAIL_LOG = '*your main*'
+PASS = '*your password*'
 FL_TS = 'work_pr_imap/OLD-RED'
 TIME_CHECK = 60
 
